@@ -1,0 +1,7 @@
+meta:
+  environment: node
+  tool: npm
+build:
+  command: npm run build
+run:
+  command: node dist/server.cjs

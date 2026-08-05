@@ -1,0 +1,6 @@
+{
+  "name": "Telegram Username Finder & AI Bot",
+  "description": "Telegram username search, AI handle generator, availability checker, Fragment auction lookup, and Telegram bot deployment kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
